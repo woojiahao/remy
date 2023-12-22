@@ -1,8 +1,8 @@
 # ----
 # Site
 
-title: Treat Template
-url: "https://spring-bat.cloudvent.net/"
+title: Remy
+url: "https://remy.woojiahao.com"
 baseurl:
 google_analytics_key:
 newsletter_action:
@@ -10,20 +10,16 @@ disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Food blog template for Jekyll.
+description: Sharing my recipes as a broke college student
 author:
-  name:
-  email:
-  twitter: # twitter username without the @ symbol
-social:
-  name: Treat Template
-  links:
-    - https://github.com/CloudCannon/treat-jekyll-template
+  name: Woo Jia Hao
+  email: woojiahao1234@gmail.com
+  twitter: woojiahao_
 
 # -----
 # Build
 
-timezone: Etc/UTC
+timezone: Etc/GMT+8
 
 paginate: 10
 paginate_path: "/:num/"
@@ -84,7 +80,7 @@ social_icons:
   - YouTube
   - RSS
 
-_options:
-  author_image:
-    width: 400
-    height: 400
+# _options:
+#   author_image:
+#     width: 400
+#     height: 400
